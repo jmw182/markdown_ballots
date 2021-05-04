@@ -78,19 +78,19 @@
 ## Inspector of Election Pittsburgh Ward 9 Dist 6 (4 Year Term, Vote for 1)
 - [ ] (No candidates on ballot)
 
-## Proposed Constitutional Ammendment 1
+## Proposed Constitutional Amendment 1
 TERMINATION OR EXTENSION OF DISASTER EMERGENCY DECLARATIONS
 Shall the Pennsylvania Constitution be amended to change existing law and increase the power of the General Assembly to unilaterally terminate or extend a disaster emergency declaration—and the powers of Commonwealth agencies to address the disaster regardless of its severity pursuant to that declaration—through passing a concurrent resolution by simple majority, thereby removing the existing check and balance of presenting a resolution to the Governor for approval or disapproval?
 - [ ] Yes
 - [ ] No
 
-## Proposed Constitutional Ammendment 2
+## Proposed Constitutional Amendment 2
 DISASTER EMERGENCY DECLARATION AND MANAGEMENT
 Shall the Pennsylvania Constitution be amended to change existing law so that: a disaster emergency declaration will expire automatically after 21 days, regardless of the severity of the emergency, unless the General Assembly takes action to extend the disaster emergency; the Governor may not declare a new disaster emergency to respond to the dangers facing the Commonwealth unless the General Assembly passes a concurrent resolution; the General Assembly enacts new laws for disaster management?
 - [ ] Yes
 - [ ] No
 
-## Proposed Constitutional Ammendment 3
+## Proposed Constitutional Amendment 3
 PROHIBITION AGAINST DENIAL OR ABRIDGEMENT OF EQUALITY OF RIGHTS BECAUSE OF RACE OR ETHNICITY
 Shall the Pennsylvania Constitution be amended by adding a new section providing that equality of rights under the law shall not be denied or abridged because of an individual’s race or ethnicity?
 - [ ] Yes
