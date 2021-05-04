@@ -79,32 +79,32 @@
 - [ ] (No candidates on ballot)
 
 ## Proposed Constitutional Amendment 1
-TERMINATION OR EXTENSION OF DISASTER EMERGENCY DECLARATIONS
+### TERMINATION OR EXTENSION OF DISASTER EMERGENCY DECLARATIONS
 Shall the Pennsylvania Constitution be amended to change existing law and increase the power of the General Assembly to unilaterally terminate or extend a disaster emergency declaration—and the powers of Commonwealth agencies to address the disaster regardless of its severity pursuant to that declaration—through passing a concurrent resolution by simple majority, thereby removing the existing check and balance of presenting a resolution to the Governor for approval or disapproval?
 - [ ] Yes
 - [ ] No
 
 ## Proposed Constitutional Amendment 2
-DISASTER EMERGENCY DECLARATION AND MANAGEMENT
+### DISASTER EMERGENCY DECLARATION AND MANAGEMENT
 Shall the Pennsylvania Constitution be amended to change existing law so that: a disaster emergency declaration will expire automatically after 21 days, regardless of the severity of the emergency, unless the General Assembly takes action to extend the disaster emergency; the Governor may not declare a new disaster emergency to respond to the dangers facing the Commonwealth unless the General Assembly passes a concurrent resolution; the General Assembly enacts new laws for disaster management?
 - [ ] Yes
 - [ ] No
 
 ## Proposed Constitutional Amendment 3
-PROHIBITION AGAINST DENIAL OR ABRIDGEMENT OF EQUALITY OF RIGHTS BECAUSE OF RACE OR ETHNICITY
+### PROHIBITION AGAINST DENIAL OR ABRIDGEMENT OF EQUALITY OF RIGHTS BECAUSE OF RACE OR ETHNICITY
 Shall the Pennsylvania Constitution be amended by adding a new section providing that equality of rights under the law shall not be denied or abridged because of an individual’s race or ethnicity?
 - [ ] Yes
 - [ ] No
 
 ## Statewide Question Act 2020-91
-MAKING MUNICIPAL FIRE AND EMERGENCY MEDICAL SERVICES COMPANIES ELIGIBLE FOR LOANS
+### MAKING MUNICIPAL FIRE AND EMERGENCY MEDICAL SERVICES COMPANIES ELIGIBLE FOR LOANS
 Do you favor expanding the use of the indebtedness authorized under the referendum for loans to volunteer fire companies, volunteer ambulance services and volunteer rescue squads under 35 PA.C.S. Section 7378.1 (related to referendum for additional indebtedness) to include loans to municipal fire departments or companies that provide services through paid personnel and emergency medical services companies for the purpose of establishing and modernizing facilities to house apparatus equipment, ambulances and rescue vehicles, and for purchasing apparatus equipment, ambulances and rescue vehicles, protective and communications equipment and any other accessory equipment necessary for the proper performance of the duties of the fire companies and emergency medical services companies? 
 - [ ] Yes
 - [ ] No
   
 ## Countywide Question
-ALLEGHENY COUNTY PROPOSED ORDINANCE
-SPECIAL ELECTION QUESTION
+### ALLEGHENY COUNTY PROPOSED ORDINANCE
+#### SPECIAL ELECTION QUESTION
 Shall the Allegheny County Code, Chapter 205, Allegheny County Jail, be amended and
 supplemented to include a new Article III, which shall set forth standards governing
 conditions of confinement in the Allegheny County Jail?
@@ -112,8 +112,8 @@ conditions of confinement in the Allegheny County Jail?
 - [ ] No
 
 ## City of Pittsburgh
-PROPOSED HOME RULE CHARTER AMENDMENT
-SPECIAL ELECTION QUESTION
+### PROPOSED HOME RULE CHARTER AMENDMENT
+#### SPECIAL ELECTION QUESTION
 Shall the Pittsburgh Home Rule Charter be amended and supplemented by adding a new Article 10: Powers of the Pittsburgh Police, containing Section 1001, which shall bar employees of the Pittsburgh Bureau of Police from executing warrants at any residence without knocking and announcing themselves? 
 - [ ] Yes
 - [ ] No
