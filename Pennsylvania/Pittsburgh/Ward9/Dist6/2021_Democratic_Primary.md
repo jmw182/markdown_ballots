@@ -6,7 +6,7 @@
 ## Judge of the Superior Court (Vote for 1)
 - [ ] Jill Beck (Allegheny County)
 - [ ] Timika Lane (Philadelphia County)
-- [ ] Bryan Neft (Allgeheny County)
+- [ ] Bryan Neft (Allegheny County)
 
 ## Judge of the Commonwealth Court (Vote for not more than 2)
 - [ ] David Lee Spurgeon (Allgeheny County)
