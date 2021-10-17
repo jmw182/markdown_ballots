@@ -35,7 +35,7 @@ November 2, 2021
 - [ ] Rick Hosking (Republican)
 - [ ] Richard L. Weiss (Green)
 
-## Sheriff (4 Year Term, Vote for 1One
+## Sheriff (4 Year Term, Vote for One
 - [ ] Kevin Kraus (Democratic/Republican)
 
 ## Mayor of Pittsburgh (4 Year Term, Vote for One)
