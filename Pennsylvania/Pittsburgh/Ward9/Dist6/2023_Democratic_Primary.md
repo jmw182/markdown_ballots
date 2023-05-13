@@ -1,5 +1,5 @@
 # Pittsburgh Ward 9 Dist 6 Democratic General Primary Ballot
-May 16, 2022
+May 16, 2023
 
 ## Justice of the Supreme Court (Vote for 1)
 - [ ] Daniel McCaffery (Philadelphia County)
